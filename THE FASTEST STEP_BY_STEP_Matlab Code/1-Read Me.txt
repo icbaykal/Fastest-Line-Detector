@@ -1,0 +1,15 @@
+1- Run the file "RunThis.m" in Matlab
+
+2- Press the "OPEN" Button to load an image.
+
+3- Press The "EDGE DETECT" button to apply Canny edge detector.
+
+4- Press the "PIECEWISE MATCH" button to match 4x4 pixel patterns to one of the 110 patterns. Edges that are recognised are painted in dark gray. Unrecognised ones are painted in RED. That means those pixels can NOT be a part of a line.
+
+5- Press The "SEGMENT" button to connect (or segment) 4x4 patterns into lines. Each line segment is shown using a different color.
+
+6- Press The "SHOW LINE" button. That will find the patterns at the end of these segments, then find the end points of the line patterns at the end of segments, extend them up to three pixels if necessary, and find the coordinates of the tip points of the lines. It will draw the line and mark the end points of the line using tiny red and green crosses
+
+7- Press the "VERIFY" button to first draw the edge pixels in white and then the lines in blue on top of the edge lines. (You might have to zoom the image if edges and lines don't look like they are on top of each other. Matlab weirdness.)
+
+8- Before loading a new picture, press the "RESTART" button.
