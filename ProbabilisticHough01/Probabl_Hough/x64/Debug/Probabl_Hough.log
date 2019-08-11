@@ -1,0 +1,2 @@
+﻿cl : Komut satırı error D8016: '/O2' ve '/RTC1' komut satırı seçenekleri uyumsuz
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(423,5): error MSB6006: "CL.exe" öğesinden 2 koduyla çıkıldı.

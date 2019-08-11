@@ -1,0 +1,14 @@
+﻿  GUImain.cpp
+c:\users\samsung\desktop\baykal_yilmaz_codes\probabilistichough\probabl_hough\guimain.cpp(117): warning C4244: 'return': 'WPARAM' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\samsung\desktop\baykal_yilmaz_codes\probabilistichough\probabl_hough\guimain.cpp(132): warning C4146: tek işlenenli eksi işareti işaretsiz türe uygulandı; sonuç hala işaretsiz
+c:\users\samsung\desktop\baykal_yilmaz_codes\probabilistichough\probabl_hough\guimain.cpp(180): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\samsung\desktop\baykal_yilmaz_codes\probabilistichough\probabl_hough\guimain.cpp(198): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\samsung\desktop\baykal_yilmaz_codes\probabilistichough\probabl_hough\guimain.cpp(366): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\samsung\desktop\baykal_yilmaz_codes\probabilistichough\probabl_hough\guimain.cpp(366): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1323): note: 'itoa' bildirimine bakın
+  Kod üretiliyor
+  2 of 306 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  Probabl_Hough.vcxproj -> C:\Users\Samsung\Desktop\BAYKAL_YILMAZ_CODES\ProbabilisticHough\x64\Release\Probabl_Hough.exe
